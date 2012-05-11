@@ -21,4 +21,10 @@ public class pruebaGIT{
 		return s;
 	}
 	
+	public int sinCampo()
+	{
+		int nuevoCampo=0;
+		return nuevoCampo;
+	}
+	
 }
