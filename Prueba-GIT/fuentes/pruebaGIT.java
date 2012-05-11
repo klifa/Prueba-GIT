@@ -1,5 +1,5 @@
 
-public class pruebaGIT {
+public class pruebaGIT{
 	int campo1;
 	
 	public pruebaGIT()
@@ -13,6 +13,12 @@ public class pruebaGIT {
 
 	public void setCampo1(int campo1) {
 		this.campo1 = campo1;
+	}
+	
+	public String toString()
+	{
+		String s="";
+		return s;
 	}
 	
 }
