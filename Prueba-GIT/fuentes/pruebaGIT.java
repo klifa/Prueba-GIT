@@ -1,4 +1,3 @@
-
 public class pruebaGIT{
 	int campo1;
 	
@@ -27,4 +26,9 @@ public class pruebaGIT{
 		return nuevoCampo;
 	}
 	
+         public String toString()
+         {
+                  String s="";
+                  return s; 
+         }
 }
